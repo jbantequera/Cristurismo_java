@@ -1,0 +1,54 @@
+<jugadores>
+	<jugador>
+		<id> 0 </id>
+		<login> zizou </login>
+		<passwd> thebest </passwd>
+		<creditos> 1000000.0 </creditos>
+		<numeroVictorias> 127 </numeroVictorias>
+		<tipoCarnet>
+			<carnetA> true </carnetA>
+			<carnetB> true </carnetB>
+			<carnetC> true </carnetC>
+		</tipoCarnet>
+		<garaje>
+			<coche>
+				<id> 0 </id>
+				<piezas> 0 1 2 </piezas>
+			</coche>
+			<coche>
+				<id> 1 </id>
+				<piezas> 1 2 </piezas>
+			</coche>
+			<moto>
+				<id> 3 </id>
+				<piezas> 2 3 </piezas>
+			</moto>
+			<camion>
+				<id> 4 </id>
+				<piezas> 1 2 4 </piezas>
+			</camion>
+		</garaje>
+	</jugador>
+	<jugador>
+		<id> 1 </id>
+		<login> juan </login>
+		<passwd> josegras </passwd>
+		<creditos> 30000.0 </creditos>
+		<numeroVictorias> 40 </numeroVictorias>
+		<tipoCarnet>
+			<carnetA> true </carnetA>
+			<carnetB> true </carnetB>
+			<carnetC> false </carnetC>
+		</tipoCarnet>
+		<garaje>
+			<coche>
+				<id> 0 </id>
+				<piezas> 1 </piezas>
+			</coche>
+			<coche>
+				<id> 1 </id>
+				<piezas> 2 </piezas>
+			</coche>
+		</garaje>
+	</jugador>
+</jugadores>

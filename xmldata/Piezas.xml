@@ -1,0 +1,52 @@
+<piezas>
+	<pieza>
+		<id> 0 </id>
+		<nombre> turbo </nombre>
+		<aerodinamica> 0 </aerodinamica>
+		<aceleracion> 20 </aceleracion>
+		<manejo> -10 </manejo>
+		<velocidadMax> 10 </velocidadMax>
+		<frenada> 0 </frenada>
+		<precio> 1000 </precio>
+	</pieza>
+	<pieza>
+		<id> 1 </id>
+		<nombre> aleronTrasero </nombre>
+		<aerodinamica> 25 </aerodinamica>
+		<aceleracion> 5 </aceleracion>
+		<manejo> 7 </manejo>
+		<velocidadMax> 10 </velocidadMax>
+		<frenada> 5 </frenada>
+		<precio> 1500 </precio>
+	</pieza>
+	<pieza>
+		<id> 2 </id>
+		<nombre> frenosBrembo </nombre>
+		<aerodinamica> 0 </aerodinamica>
+		<aceleracion> 0 </aceleracion>
+		<manejo> 15 </manejo>
+		<velocidadMax> 0 </velocidadMax>
+		<frenada> 35 </frenada>
+		<precio> 1250 </precio>
+	</pieza>
+	<pieza>
+		<id> 3 </id>
+		<nombre> manillarPro </nombre>
+		<aerodinamica> 5 </aerodinamica>
+		<aceleracion> 0 </aceleracion>
+		<manejo> 25 </manejo>
+		<velocidadMax> 0 </velocidadMax>
+		<frenada> 0 </frenada>
+		<precio> 350 </precio>
+	</pieza>
+	<pieza>
+		<id> 4 </id>
+		<nombre> ruedasMichellinCamion </nombre>
+		<aerodinamica> 5 </aerodinamica>
+		<aceleracion> 5 </aceleracion>
+		<manejo> 10 </manejo>
+		<velocidadMax> 10 </velocidadMax>
+		<frenada> 5 </frenada>
+		<precio> 750 </precio>
+	</pieza>
+</piezas>

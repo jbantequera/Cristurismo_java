@@ -1,0 +1,78 @@
+<catalogo>
+	<coche>
+		<id> 0 </id>
+		<marca> seat </marca>
+		<modelo> ibiza </modelo>
+		<tipoCombustible> gasolina </tipoCombustible>
+		<cilindrada> 1400 </cilindrada>
+		<caballos> 75 </caballos>
+		<aerodinamica> 67 </aerodinamica>
+		<aceleracion> 54 </aceleracion>
+		<manejo> 50 </manejo>
+		<velocidadMax> 38 </velocidadMax>
+		<frenada> 40 </frenada>
+		<precioBase> 6000 </precioBase>
+		<catalogado> true </catalogado>
+	</coche>
+	<coche>
+		<id> 1 </id>
+		<marca> fiat </marca>
+		<modelo> marbella </modelo>
+		<tipoCombustible> diesel </tipoCombustible>
+		<cilindrada> 1100 </cilindrada>
+		<caballos> 65 </caballos>
+		<aerodinamica> 37 </aerodinamica>
+		<aceleracion> 24 </aceleracion>
+		<manejo> 68 </manejo>
+		<velocidadMax> 28 </velocidadMax>
+		<frenada> 35 </frenada>
+		<precioBase> 4750 </precioBase>
+		<catalogado> true </catalogado>
+	</coche>
+	<coche>
+		<id> 2 </id>
+		<marca> ferrari </marca>
+		<modelo> testarossa </modelo>
+		<tipoCombustible> gasolina </tipoCombustible>
+		<cilindrada> 5000 </cilindrada>
+		<caballos> 390 </caballos>
+		<aerodinamica> 87 </aerodinamica>
+		<aceleracion> 88 </aceleracion>
+		<manejo> 18 </manejo>
+		<velocidadMax> 92 </velocidadMax>
+		<frenada> 80 </frenada>
+		<precioBase> 200000 </precioBase>
+		<catalogado> true </catalogado>
+	</coche>
+	<moto>
+		<id> 3 </id>
+		<marca> ducatti </marca>
+		<modelo> 1190 </modelo>
+		<tipoCombustible> gasolina </tipoCombustible>
+		<cilindrada> 1190 </cilindrada>
+		<caballos> 180 </caballos>
+		<aerodinamica> 87 </aerodinamica>
+		<aceleracion> 99 </aceleracion>
+		<manejo> 30 </manejo>
+		<velocidadMax> 92 </velocidadMax>
+		<frenada> 80 </frenada>
+		<precioBase> 40000 </precioBase>
+		<catalogado> false </catalogado>
+	</moto>
+	<camion>
+		<id> 4 </id>
+		<marca> volvo </marca>
+		<modelo> 340 </modelo>
+		<tipoCombustible> diesel </tipoCombustible>
+		<cilindrada> 4500 </cilindrada>
+		<caballos> 500 </caballos>
+		<aerodinamica> 20 </aerodinamica>
+		<aceleracion> 30 </aceleracion>
+		<manejo> 15 </manejo>
+		<velocidadMax> 40 </velocidadMax>
+		<frenada> 50 </frenada>
+		<precioBase> 80000 </precioBase>
+		<capacidadCarga> 20000 </capacidadCarga>
+		<catalogado> true </catalogado>
+	</camion>
+</catalogo>
